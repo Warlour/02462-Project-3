@@ -9,7 +9,7 @@
 
 2. `conda activate 02462`
 
-3. `conda install python=3.13`
+3. `conda install python=3.11`
 
 4. `pip install -r requirements.txt`
 
