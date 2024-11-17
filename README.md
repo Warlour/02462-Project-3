@@ -11,6 +11,6 @@
 
 3. `conda install python=3.11`
 
-4. `pip install -r requirements.txt`
+4. `pip install -r requirements/requirements.txt -r requirements/mac.txt`
 
 5. Hvis du har CUDA-understøttet GPU, skal du installere torch via følgende formula: [pytorch.org](https://pytorch.org/get-started/locally/)
