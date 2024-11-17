@@ -1,3 +1,6 @@
+# assignment_3.zip, glove.6B.50d.txt, glove.42B.300d.txt, news_data.npz, important_stuff.pkl, important_stuff.npy
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
